@@ -24,9 +24,9 @@ function talkTrash() {
     "No no no, not today!",
     "You are making me yawn.",
     "What did you do to yourself to deserve this?",
-    "Hopefully CodePen picks this ;)",
+    "Hopefully Maitreya likes this ;)",
     "DOINK!",
-    "I am like the 'Cats' of CodePens you know.",
+    "I am like the 'Cats' of Websites you know.",
     "Please tell me I am annoying, PLEASE!",
     "FIGARO, FIGARO!",
     "I promise to fix all your bugs if you can click me!",
@@ -35,7 +35,7 @@ function talkTrash() {
     "Did you know that pineapples on pizza is the best?",
     "SOMEBODY ONCE TOLD ME.",
     "derp.",
-    "Jarrod needs better project ideas",
+    "Ananya needs better project ideas",
     "someone help.",
     "Hopefully, I don't repeat everything I just said"
   ];
